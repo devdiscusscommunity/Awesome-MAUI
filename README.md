@@ -1,1 +1,1 @@
-# Awesome-MAUI
+# Awesome .NET MAUI
